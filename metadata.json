@@ -1,0 +1,7 @@
+{
+  "name": "Impulsora de Innovaciones",
+  "description": "Sitio corporativo y landing page de CIPO (Cisterna Portátil Automática) enfocada en soluciones tecnológicas hídricas sostenibles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
